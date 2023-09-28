@@ -11,7 +11,7 @@ export default function Card(prop){
                     <a href={prop.item.googleMapsUrl}>View on Google Maps</a>
                 </div>
                 <h1>{prop.item.title}</h1>
-                <h4>`${prop.item.startDate} - ${prop.item.endDate}`</h4>
+                <h4>{prop.item.startDate} - {prop.item.endDate}</h4>
                 <p>{prop.item.description}</p>
             </div>
         </div>

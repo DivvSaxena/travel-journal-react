@@ -15,7 +15,7 @@ export default [
         startDate: "6 Dec, 2022",
         endDate: "12 Dec, 2022",
         description: "Mumbai, one of the major cosmopolitan cities in India, is a popular tourist attraction. It is primarily famous for large markets, mesmerising beaches, towering buildings, and exquisite five-star hotels.",
-        imageUrl: "https://images.unsplash.com/photo-1529253355930-ddbe423a2ac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80"
+        imageUrl: "https://images.unsplash.com/photo-1562979314-bee7453e911c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
     },
     {
         title: "Mount Fuji",

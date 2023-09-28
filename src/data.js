@@ -1,5 +1,23 @@
 export default [
     {
+        title: "NEW DELHI",
+        location: "INDIA",
+        googleMapsUrl: "https://maps.app.goo.gl/ZKAQWiKzmJjBfGhM9",
+        startDate: "12 Nov, 2022",
+        endDate: "24 Jan, 2023",
+        description: "New Delhi has great historical significance as it was home to powerful people, The city has many historical monuments and tourist attractions as well as lively marketplaces and great food, such as chaat.",
+        imageUrl: "https://images.unsplash.com/photo-1592639296346-560c37a0f711?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+        title: "MUMBAI",
+        location: "INDIA",
+        googleMapsUrl: "https://maps.app.goo.gl/4CaPen5pMqQZm8gL9",
+        startDate: "6 Dec, 2022",
+        endDate: "12 Dec, 2022",
+        description: "Mumbai, one of the major cosmopolitan cities in India, is a popular tourist attraction. It is primarily famous for large markets, mesmerising beaches, towering buildings, and exquisite five-star hotels.",
+        imageUrl: "https://images.unsplash.com/photo-1529253355930-ddbe423a2ac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80"
+    },
+    {
         title: "Mount Fuji",
         location: "JAPAN",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",

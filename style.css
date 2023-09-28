@@ -8,6 +8,8 @@ body{
 .header--nav{
   font-family: 'Inter', sans-serif;
   background-color: #F55A5A;
+  box-shadow: 2px 5px 330px rgb(70, 5, 5);
+  
 }
 
 .header--div{
@@ -86,5 +88,9 @@ body{
   padding: 1em;
 }
 
+.header--nav{
+  border-bottom-left-radius: 1em;
+  border-bottom-right-radius: 1em;
+}
 
 }
